@@ -240,4 +240,4 @@ tags
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/vim,linux,ansible,python,docker,powershell,visualstudiocode
-
+*.tar.gz
