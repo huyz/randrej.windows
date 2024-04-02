@@ -1,4 +1,4 @@
-# Ansible Collection - aradovic.windows
+# Ansible Collection - randrej.windows
 
 An odds-and-ends collection of PS-based modules for Windows, created mostly to
 host `win_blockinfile`.
